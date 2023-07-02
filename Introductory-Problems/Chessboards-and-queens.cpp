@@ -51,6 +51,7 @@ void place_row_wise(int n, int row)
     {
         //completed
         c++;
+        return;
     }
     for(int j=0;j<n;j++)
     {
